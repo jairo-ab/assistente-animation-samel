@@ -22,4 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# assistente-animation-samel
+
+<img src="public/assistente.jpeg" />
